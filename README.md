@@ -67,25 +67,25 @@ cttynul, afk known as Alessandro, yep, I'm Italian 🍕
             <li><a href="https://github.com/cttynul/powershell-batch-scripts">powershell-batch-scripts</a> - 🖥️ Stupid Powershell/Batch scripts to make my life easier</li>
           </ul>  
 
-        <h2>🍿 Kodi™ Add-ons</h2>
-          <ul>
-            <li><a href="https://github.com/cttynul/plugin.video.kod">plugin.video.kod</a> - This just provides you Italian contents, member of KOD Team, check <a href="https://github.com/kodiondemand/addon">official repo</a></li>
-            <li><a href="https://github.com/cttynul/plugin.video.vvvvid">plugin.video.vvvvid</a> - View your favourite VVVVID.it content in an easly way, account needed</li>
-            <li><a href="https://github.com/cttynul/plugin.video.f4mTester">plugin.video.f4mTester</a> - Solve and play easly HDS streams with some cool setting streaming feature</li>
-            <li><a href="https://github.com/cttynul/plugin.video.live.streamspro">plugin.video.live.streamspro</a> - Add and play local or remote source in your media center</li>
-            <li><a href="https://github.com/cttynul/plugin.video.raitv">plugin.video.raitv</a> - Kodi plugin for RAI, originally developed by <a href=https://github.com/nightflyer73/>nightflyer73</a> ported to Python 3</li>
-            <li><a href="https://github.com/cttynul/plugin.video.mediasetplay">plugin.video.mediasetplay</a> - Kodi Addon che permette di sfogliare e riprodurre i contenuti dal sito Mediaset Play, originally developed by <a href=https://github.com/kodi-bino/>kodi-bino</a> ported to Python 3</li>
-            <li><a href="https://github.com/cttynul/plugin.video.dplay">plugin.video.dplay</a> - Kodi unofficial plugin for Dplay, originally developed by <a href=https://github.com/NeverWise/>NeverWise</a> ported to Python 3</li>
-            <li><a href="https://github.com/cttynul/plugin.video.cielotv">plugin.video.cielotv</a> - Kodi add-on to watch Cielo, TV8 and Sky TG24 live.</li>
-            <li><a href="https://github.com/cttynul/script.module.neverwise">script.module.neverwise</a> - NeverWise Kodi tools, originally developed by <a href=https://github.com/NeverWise/>NeverWise</a> ported to Python 3</li>
-          </ul>
+<h2>🍿 Kodi™ Add-ons</h2>
+  <ul>
+    <li><a href="https://github.com/cttynul/plugin.video.kod">plugin.video.kod</a> - This just provides you Italian contents, member of KOD Team, check <a href="https://github.com/kodiondemand/addon">official repo</a></li>
+    <li><a href="https://github.com/cttynul/plugin.video.vvvvid">plugin.video.vvvvid</a> - View your favourite VVVVID.it content in an easly way, account needed</li>
+    <li><a href="https://github.com/cttynul/plugin.video.f4mTester">plugin.video.f4mTester</a> - Solve and play easly HDS streams with some cool setting streaming feature</li>
+    <li><a href="https://github.com/cttynul/plugin.video.live.streamspro">plugin.video.live.streamspro</a> - Add and play local or remote source in your media center</li>
+    <li><a href="https://github.com/cttynul/plugin.video.raitv">plugin.video.raitv</a> - Kodi plugin for RAI, originally developed by <a href=https://github.com/nightflyer73/>nightflyer73</a> ported to Python 3</li>
+    <li><a href="https://github.com/cttynul/plugin.video.mediasetplay">plugin.video.mediasetplay</a> - Kodi Addon che permette di sfogliare e riprodurre i contenuti dal sito Mediaset Play, originally developed by <a href=https://github.com/kodi-bino/>kodi-bino</a> ported to Python 3</li>
+    <li><a href="https://github.com/cttynul/plugin.video.dplay">plugin.video.dplay</a> - Kodi unofficial plugin for Dplay, originally developed by <a href=https://github.com/NeverWise/>NeverWise</a> ported to Python 3</li>
+    <li><a href="https://github.com/cttynul/plugin.video.cielotv">plugin.video.cielotv</a> - Kodi add-on to watch Cielo, TV8 and Sky TG24 live.</li>
+    <li><a href="https://github.com/cttynul/script.module.neverwise">script.module.neverwise</a> - NeverWise Kodi tools, originally developed by <a href=https://github.com/NeverWise/>NeverWise</a> ported to Python 3</li>
+  </ul>
 
-        <h2>📰 Nice to read</h2>
-        <ul>
-            <li><a href="https://opensource.com/open-source-way" rel="nofollow">The open source way</a> - opensource.com</li>
-            <li><a href="https://www.quora.com/Why-is-DRM-a-bad-thing" rel="nofollow">Why is DRM a bad thing?</a> - quora.com</li>
-            <li><a href="https://saveyourinternet.eu/" rel="nofollow">#SaveYourInternet - Fight the #CensorshipMachine</a> - saveyourinternet.eu</li>        
-        </ul>
+<h2>📰 Nice to read</h2>
+<ul>
+    <li><a href="https://opensource.com/open-source-way" rel="nofollow">The open source way</a> - opensource.com</li>
+    <li><a href="https://www.quora.com/Why-is-DRM-a-bad-thing" rel="nofollow">Why is DRM a bad thing?</a> - quora.com</li>
+    <li><a href="https://saveyourinternet.eu/" rel="nofollow">#SaveYourInternet - Fight the #CensorshipMachine</a> - saveyourinternet.eu</li>        
+</ul>
 ## ❤️ Thanks
 <ul>
           <li>To <content class="thanks">my father</content> 👨‍ who gave me computer and coding passion, gifting me my first computer and Visual Basic 6.0 book</li>
